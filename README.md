@@ -78,8 +78,8 @@ Click Airflow UI: http://locahost:8080
 Enable DAG: job_hunter_pipline
 
 ## 🤖 Discord bot jobs post
-![Data Lakehouse Architecture](./images/Discordbot.png)
-![Data Lakehouse Architecture](./images/Discordbot2.png)
+![Data Lakehouse Architecture](./demo_images/Discordbot.png)
+![Data Lakehouse Architecture](./demo_images/Discordbot2.png)
 
 ## Dags of jobs
 ![Dags of jobs](./demo_images/dags_of_jobs.png)
