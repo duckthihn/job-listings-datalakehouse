@@ -1,0 +1,9 @@
+playwright == 1.48.0
+requests
+apache-airflow-providers-docker
+apache-airflow-providers-ssh
+
+pandas
+discord
+trino
+python-dotenv
