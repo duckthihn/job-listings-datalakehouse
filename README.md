@@ -1,4 +1,4 @@
-# 🚀 DataLens Data Lakehouse: Vietnam IT Job Market
+# Data Lakehouse: Vietnam IT Job Market
 
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-Fresher_Project-blue)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3.5-E25A1C)

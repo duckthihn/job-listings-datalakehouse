@@ -1,6 +1,7 @@
 logs/
 __pycache__/
 *.pyc
+.idea
 #jobs/crawlers/
 .env
 airflow.db
